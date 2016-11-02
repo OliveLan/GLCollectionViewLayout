@@ -1,0 +1,2 @@
+# GLCollectionViewLayout
+基于CollectionViewLayout的卡片选择器，几行代码即可使用
